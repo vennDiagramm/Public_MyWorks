@@ -22,7 +22,10 @@ class HelloWorld
             int Area = length * width;
             System.out.println("Area: " + Area);
 
+            //Close the scanner/reader
+            Reader.Close();
             // ;))
             System.out.println("Thank You! :D");
+                
         }
 }
