@@ -1,8 +1,6 @@
-﻿//SCRATCH THE OLD CALCU (katong do while) -- TAKE AWAY THINGS, REVAMP, SEARCH INTERNET FOR SIMILAR PROBLEMS
-// LOOK INTO SAVING AND RETRIEVING FILES
-//LOOK INTO HOW TO CREATE FUNCTIONS IN C#
-//YOU CAN USE $ PARA DLI NA CGEG "WORD" + VARIABLE + "WORD"
-//Kadaghay yellow sa pag run 
+//Take user input
+//Do simple calculations
+//Redo calculations
 
 using System;
 using System.IO;
@@ -13,13 +11,13 @@ namespace TrialForProg3_1._0_
     {
         static void Main(string[] args)
         {
-            //Para Continous ang Calculations
+            //For continuous calculations
             bool continueCalculation = true;
 
             //FOR USER INPUT
             while (continueCalculation)
             {
-                // For Numbers 1 & 2, plus the result, e zero na daan kay basig mo error nasab
+                // Declaration of variables
                 double num1 = 0, num2 = 0, res = 0;
                 string op = "";
                 bool valid = false;
@@ -59,7 +57,7 @@ namespace TrialForProg3_1._0_
                 }
 
 
-            //BREAK HERE -- OPERATION (FOR READABILITY)
+            //BREAK HERE -- OPERATION (call for function-below the code)
 
                 //Operation - call up the function
                 res = Calculate(num1, num2, op);
@@ -105,7 +103,7 @@ namespace TrialForProg3_1._0_
         }
 
 
-        //FUNCTIONSSSSSSSSSSSSSSSSSSS
+        //FUNCTIONS (This is where the solving happens)
         static double Calculate(double num1, double num2, string op)
         {
             double result = 0;
