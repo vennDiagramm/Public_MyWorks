@@ -1,0 +1,5 @@
+This code is a simple calculator.
+
+This takes user input.
+This program is able to do simple calculations.
+THis program is able to try again another calculations.
