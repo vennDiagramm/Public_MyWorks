@@ -1,0 +1,15 @@
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\bin\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.exe
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\bin\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.deps.json
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\bin\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.runtimeconfig.json
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\bin\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.dll
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\bin\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.pdb
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.csproj.AssemblyReference.cache
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.AssemblyInfoInputs.cache
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.AssemblyInfo.cs
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.csproj.CoreCompileInputs.cache
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.dll
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\refint\CompThinkProg3_Pilapil,Manigque.dll
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.pdb
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\CompThinkProg3_Pilapil,Manigque.genruntimeconfig.cache
+C:\Users\marga\OneDrive\Documents\Marga_Pilapil\C#\CompThinkProg3_Pilapil,Manigque\obj\Debug\net7.0\ref\CompThinkProg3_Pilapil,Manigque.dll

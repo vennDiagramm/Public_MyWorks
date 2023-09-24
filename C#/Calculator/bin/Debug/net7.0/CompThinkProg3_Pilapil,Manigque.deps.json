@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CompThinkProg3_Pilapil,Manigque/1.0.0": {
+        "runtime": {
+          "CompThinkProg3_Pilapil,Manigque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompThinkProg3_Pilapil,Manigque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
